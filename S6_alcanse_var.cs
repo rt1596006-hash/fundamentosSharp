@@ -1,6 +1,4 @@
 
-using System.Diagnostics.Contracts;
-
 int cont = 100;
 cont ++ ;
 contar();
